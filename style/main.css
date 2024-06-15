@@ -1,9 +1,24 @@
 body {
-  background-color: purple;
+  background-color: rgb(242, 138, 242);
 }
 h1 {
   font-size: 124px;
   font-family: monospace;
-  color: bisque;
+  color: rgb(29, 38, 15);
   text-align: center;
+}
+h2 {
+  font-size: 61px;
+  font-family: monospace;
+  color: rgb(29, 38, 15);
+  text-align: center;
+}
+h3 {
+  font-size: 24pt;
+  font-family: Arial;
+  text-align: center;
+  text-decoration: solid;
+}
+p {
+  font-family: monospace;
 }
