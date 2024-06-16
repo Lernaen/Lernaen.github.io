@@ -76,3 +76,9 @@ ol {
 .unavailable {
   text-decoration: line-through;
 }
+
+footer {
+  text-align: center;
+  font-size: 10pt;
+  font-family: 'Times New Roman', Times, serif;
+}
