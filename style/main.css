@@ -26,4 +26,22 @@ p {
 div {
   font-size: 14pt;
   font-family: monospace;
+  text-align: left;
+}
+
+.tech {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.hskills {
+  width: 300px;
+  border: 15px solid rgb(128, 0, 0);
+  padding: 50px;
+  margin: 20px;
+  border-radius: 15px;
 }
