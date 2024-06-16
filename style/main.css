@@ -35,6 +35,7 @@ h4 {
 }
 p {
   font-family: monospace;
+  text-align: center;
 }
 
 div {
@@ -70,4 +71,8 @@ ol {
 }
 #banner {
   width: 100%;
+}
+
+.unavailable {
+  text-decoration: line-through;
 }
