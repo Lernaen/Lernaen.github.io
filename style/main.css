@@ -65,6 +65,9 @@ span {
   display: flex;
   justify-content: center;
 }
+ul {
+  align-text: center;
+}
 
 ol {
   text-decoration: underline;
